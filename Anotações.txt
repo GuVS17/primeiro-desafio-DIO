@@ -1,0 +1,6 @@
+git clone para clonar um repositório
+cd "dio-desafio-github-primeiro" para entrar na pasta
+git status 
+git add . ou git add -A para adicionar no git local
+git commit -m "Colocar descrição"
+git push para subir para a nuvem
